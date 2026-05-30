@@ -1,0 +1,1 @@
+- [UART REPORT: DESIGN AND VERIFICATION](https://drive.google.com/file/d/1z50RTHuqvbgXMrGCNcqyWp1-SeycnKxe/view?usp=sharing)
